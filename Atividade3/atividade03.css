@@ -1,0 +1,13 @@
+h1 {
+    background-color: rgba(0, 128, 0, 0.931);
+    color: rgba(255, 255, 255, 0.829);
+}
+
+body {
+    background-color: rgba(223, 130, 179, 0.966);
+    background-image: url(https://images.vexels.com/media/users/3/157320/isolated/lists/ae87a5253da3c3520a492bf245c471c2-vetor-detalhado-de-borboleta-azul.png);
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    background-attachment: fixed;
+    height: 150px;;
+}
